@@ -482,7 +482,7 @@ export default function PrismaModelGenerator() {
               <div className={`p-8 text-center rounded-lg border-2 border-dashed ${
                 darkMode ? 'border-gray-600 text-gray-400' : 'border-gray-300 text-gray-500'
               }`}>
-                <p>Fill model data and press "Generate" to see Prisma schema</p>
+                <p>Fill model data and press &quot;Generate&quot; to see Prisma schema</p>
               </div>
             )}
           </div>
